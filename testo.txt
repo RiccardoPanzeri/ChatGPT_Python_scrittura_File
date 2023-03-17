@@ -1,0 +1,17 @@
+
+
+Python è un linguaggio di programmazione di alto livello, open source, multipiattaforma, orientato agli oggetti, adatto a svariati ambiti come web development, scripting, data mining, intelligenza artificiale, machine learning e molto altro. 
+
+È un linguaggio di programmazione moderno, molto apprezzato per la sua sintassi intuitiva e leggibile, che consente al programmatore di scrivere codice più velocemente e con meno righe di codice rispetto ad altri linguaggi.
+
+Python è un linguaggio dinamico, che significa che le variabili e le funzioni possono essere definite in qualsiasi momento e possono essere modificate in qualsiasi momento.
+
+Python è un linguaggio interpretato, il che significa che il codice viene eseguito istantaneamente senza la necessità di compilarlo prima.
+
+Python ha una vasta libreria standard, che fornisce funzionalità predefinite come gestione dei file, stringhe, numeri, matematica, data e ora, e molto altro.
+
+Python supporta anche l'estensione della sua libreria standard con moduli e pacchetti. Ciò significa che è possibile creare o scaricare moduli e pacchetti che forniscono funzionalità aggiuntive.
+
+Python è un linguaggio di programmazione multiparadigma, che supporta sia la programmazione imperativa che quella orientata agli oggetti.
+
+Python è un linguaggio di programmazione molto flessibile e può essere utilizzato per sviluppare applicazioni web, desktop, mobile, giochi, software scientifici e molto altro.
