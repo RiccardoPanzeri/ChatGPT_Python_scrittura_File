@@ -1,7 +1,7 @@
 #importo la libreria openai
 import openai
 #affinchè il programma funzioni, è necessario inserire qui la chiave API OpenAi personale.
-openai.api_key = "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"
+openai.api_key = "Inserisci la tua chiave API OpenAI personale qui"
 #creiamo le variabili necessarie, che contengono: 
 #il modello dell'engine di completamento automatico di OpenAI
 modelloEngine = "text-davinci-003"
